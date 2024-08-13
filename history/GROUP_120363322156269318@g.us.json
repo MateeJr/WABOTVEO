@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "val: hi"
+  },
+  {
+    "role": "assistant",
+    "content": "hai, val! 💖 ada yang bisa aku bantu?"
+  },
+  {
+    "role": "user",
+    "content": "val: hi!!"
+  },
+  {
+    "role": "assistant",
+    "content": "haiii, val! 🌟 gimana kabarnya?"
+  }
+]

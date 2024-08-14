@@ -1,1 +1,31 @@
-{}
+{
+  "6282182798385": {
+    "name": "sachi",
+    "memories": {
+      "exam_subjects": [
+        "bio",
+        "smusik",
+        "bindo"
+      ]
+    },
+    "lastUpdated": "2024-08-13T09:23:43.299Z",
+    "chatId": "120363312165588476@g.us"
+  },
+  "62816358800": {
+    "name": "C",
+    "memories": {
+      "likes": "gambar kartun",
+      "hobbies": "menggambar"
+    },
+    "lastUpdated": "2024-08-13T11:47:15.039Z",
+    "chatId": "120363312165588476@g.us"
+  },
+  "6289667353300": {
+    "name": "Michelle",
+    "memories": {
+      "User Name": "Michelle"
+    },
+    "lastUpdated": "2024-08-14T05:46:13.400Z",
+    "chatId": "120363312165588476@g.us"
+  }
+}
